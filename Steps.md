@@ -1,3 +1,4 @@
 - Created the project
 - Added the header component using material ui
-- Creating tinder cards
+- Creating tinder cards using react-tinder-cards
+- Creating the swipe buttons
